@@ -7,7 +7,7 @@ This repository contains exploratory data analysis (EDA) and visualization code 
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/supermarket-sales-analysis.git
+git clone https://github.com/X31N0M/EDA-and-Visualization-of-Sales-Data.git
 ```
 
 Ensure you have Python and necessary libraries installed to run the code.
